@@ -1,5 +1,7 @@
 EFC (Easy Finance Controller)
-EFC Logo (adicione uma imagem real do projeto aqui)
+![image](https://github.com/user-attachments/assets/a5adf382-dd0c-46c0-8c65-9a6bc9584524)
+
+
 
 O EFC (Easy Finance Controller) é uma aplicação web desenvolvida para ajudar pessoas a controlarem suas finanças pessoais de forma simples e eficiente.
 
