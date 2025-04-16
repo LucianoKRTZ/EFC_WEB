@@ -1,5 +1,7 @@
 EFC (Easy Finance Controller)
-![image](https://github.com/user-attachments/assets/a5adf382-dd0c-46c0-8c65-9a6bc9584524)
+
+![Captura de tela 2025-04-16 105519](https://github.com/user-attachments/assets/5faf4de4-615c-49cf-82b8-701768740737)
+
 
 
 
