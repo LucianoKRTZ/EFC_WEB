@@ -9,95 +9,95 @@ EFC (Easy Finance Controller)
 O EFC (Easy Finance Controller) é uma aplicação web desenvolvida para ajudar pessoas a controlarem suas finanças pessoais de forma simples e eficiente.
 
 📌 Visão Geral
+
 O EFC permite:
 
-Registrar entradas e saídas de valores
+    Registrar entradas e saídas de valores
 
-Categorizar transações
+    Categorizar transações
 
-Visualizar gráficos comparativos
+    Visualizar gráficos comparativos
 
-Analisar gastos por período e categoria
+    Analisar gastos por período e categoria
 
 ✨ Funcionalidades
-📝 Registro de Transações
-Entrada e saída de valores
+    
+    📝 Registro de Transações
+    Entrada e saída de valores
 
 Dados registrados:
 
-Data
+    Data
 
-Valor
+    Valor
 
-Participante
+    Participante
 
-Descrição
+    Descrição
 
-Categoria (Alimentação, Lazer, Transporte, etc.)
+    Categoria (Alimentação, Lazer, Transporte, etc.)
 
 📊 Gráficos e Análises
-Comparativo por período (selecionável)
+*Comparativo por período (selecionável)
 
-Gráfico de Pizza:
+    Gráfico de Pizza:
 
-% do total gasto
+        % do total gasto
 
-% investido
+        % investido
 
-% não movimentado
+        % não movimentado
 
-Gráficos de Barras (Torre):
+    Gráficos de Barras (Torre):
 
-Gastos por período
+        Gastos por período
 
-Entradas por período
+        Entradas por período
 
-Investimentos por período
+        Investimentos por período
 
-Gastos por categoria
+        Gastos por categoria
 
 🛠 Tecnologias Utilizadas
-Frontend:
 
-HTML5, CSS3, JavaScript
+    Frontend:
 
-Chart.js para visualização de dados
+        HTML5, CSS3, JavaScript
 
-Backend:
+        Chart.js para visualização de dados
 
-Python (Flask)
+    Backend:
 
-SQLite (banco de dados)
+        Python (Flask)
+
+        PostgreSQL (banco de dados)
 
 🚀 Como Executar o Projeto
-Pré-requisitos
-Python 3.8+
 
-pip
+Pré-requisitos
+
+    Python 3.11+
+
+    pip
 
 Instalação
-Clone o repositório:
 
-bash
-Copy
-git clone https://github.com/seu-usuario/EFC_WEB.git
-cd EFC_WEB
-Instale as dependências:
+    Clone o repositório:
 
-bash
-Copy
-pip install -r requirements.txt
-Execute a aplicação:
+        git clone https://github.com/seu-usuario/EFC_WEB.git
+        cd EFC_WEB
+    Instale as dependências:
 
-bash
-Copy
-python app.py
-Acesse no navegador:
+        pip install -r requirements.txt
+    Execute a aplicação:
 
-Copy
-http://localhost:5000
+        python app.py
+    Acesse no navegador:
+
+        Copy
+        http://localhost:5000
 📂 Estrutura do Projeto
-Copy
+
 EFC_WEB/
 ├── app.py                # Aplicação principal
 ├── finance.db            # Banco de dados SQLite
