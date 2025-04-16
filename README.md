@@ -94,50 +94,66 @@ Instalação
         python app.py
     Acesse no navegador:
 
-        Copy
         http://localhost:5000
 📂 Estrutura do Projeto
 
-EFC_WEB/
-├── app.py                # Aplicação principal
-├── finance.db            # Banco de dados SQLite
-├── requirements.txt      # Dependências
-├── static/
-│   ├── css/
-│   │   └── style.css     # Estilos CSS
-│   └── js/
-│       └── app.js        # JavaScript principal
-└── templates/
-    ├── dashboard.html    # Página de dashboard
-    └── index.html        # Página principal
+    EFC_WEB/
+
+    ├── app.py                # Aplicação principal
+
+    ├── finance.db            # Banco de dados SQLite
+
+    ├── requirements.txt      # Dependências
+
+    ├── static/
+
+    │   ├── css/
+
+    │   │   └── style.css     # Estilos CSS
+
+    │   └── js/
+
+    │       └── app.js        # JavaScript principal
+
+    └── templates/
+
+        ├── dashboard.html    # Página de dashboard
+    
+        └── index.html        # Página principal
+
 📝 Roadmap
-Versão inicial com registro de transações
 
-Gráficos básicos
+    Versão inicial com registro de transações
 
-Exportação de relatórios (PDF/CSV)
+    Gráficos básicos
 
-Metas financeiras
+    Exportação de relatórios (PDF/CSV)
 
-Autenticação de usuários
+    Metas financeiras
 
-Versão mobile
+    Autenticação de usuários
+
+    Versão mobile
+
 
 🤝 Como Contribuir
-Faça um fork do projeto
 
-Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
+    Faça um fork do projeto
 
-Commit suas mudanças (git commit -m 'Add some AmazingFeature')
+    Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
 
-Push para a branch (git push origin feature/AmazingFeature)
+    Commit suas mudanças (git commit -m 'Add some AmazingFeature')
 
-Abra um Pull Request
+    Push para a branch (git push origin feature/AmazingFeature)
+
+    Abra um Pull Request
 
 📄 Licença
-Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+
+    Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
 ✉️ Contato
-Seu Nome - @seu_twitter - seu-email@exemplo.com
+    Luciano José Kratzer - @kratzer_luciano - www.linkedin.com/in/luciano-jose-kratzer
 
-Link do Projeto: https://github.com/seu-usuario/EFC_WEB
+
+Link do Projeto: https://github.com/LucianoKRTZ/EFC_WEB
